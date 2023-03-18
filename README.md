@@ -5,5 +5,9 @@ Este é o meu portfólio de Sprints realizadas durante a minha graduação em An
 Projeto 1: Oceanides - Sprint 1
 
 Tarefas realizadas: Criação de Documentação, Utilização de sensor com placa arduido, criação de banco de dados, prototipo de site institucional, calculadora financeira.
+
 Tecnologias utilizadas: C++,MySQL, JavaScritp 
+
 Descrição: Neste projeto, temos como objetivo diminuir a perda pela temperatura e umidade na importação de instrumentos musicais.
+
+
